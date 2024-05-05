@@ -1,31 +1,62 @@
-## - 『 Main HuTao 』 -
+## - 『 CosySan キノココレクター 』 -
 
 
-<p align="center"><img src="https://i.imgur.com/jC0GLhu.jpeg" height="460"></p>
+<p align="center"><img src="https://i.imgur.com/xk6WH6M.png" height="460"></p>
 
-[Video Revoew](https://youtu.be/aY0s4D6WZys)
+[Video Revoew](https://www.youtube.com/watch?v=HPcuEhi6goc&ab_channel=%E1%B4%87%C9%AA%C9%AA%E1%B4%85%E1%B4%87%C9%B4)
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<p align="center"><img src="https://i.imgur.com/68BaeHs.png" title="Welcome"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/6QXmsAI.jpeg" title="Menu Background"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/S7ZiAku.jpeg" title="Song Select"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/C9NxYcq.jpeg" title="Select Modes"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/LB1rxb3.jpeg" title="Mod Icons"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/Y2HiB12.jpeg" title="Skip"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/cMgwZg8.jpeg" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/TlbIeFi.jpeg" title="Screen Pause"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/wQQl2AQ.jpeg" title="Screen Fail"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/sBPal96.jpeg" title="Section Pass"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/j1ByD87.jpeg" title="Section Fail"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/XU1OLCn.jpeg" title="Ranking Panel"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/ySe5afU.jpeg" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/Y1moAox.png" title="Welcome"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/1DRSq43.png" title="Menu Background"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/TmVXHs4.jpg" title="Song Select"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/HLiT9l5.jpg" title="Select Modes"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/0TItsvM.jpg" title="Mod Icons"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/kh67iuK.png" title="Skip"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/8ft0wpM.png" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/6I9B5Bn.png" title="Section Pass"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/H0SNd59.png" title="Section Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/xLM292H.png" title="Screen Pause"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/45FTmXy.png" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/vHQoJNR.png" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/EWlq4qw.png" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
 Source|Link|
 |---|---|
-|Google Drive|[Go to GoogleDrive](https://drive.google.com/file/d/1TYrFx1RGiHYuCSRcGYMr0JXw4s8EAsl_/view?usp=drive_link)|
+|Google Drive|[Go to GoogleDrive](https://drive.google.com/file/d/1ptge2Nr8LXpK1R7Tf1SQmmyELEzi6DIE/view?usp=drive_link)|
+
+___
+
+## - 『 Numi 悪魔ニムネ 』 -
+
+
+<p align="center"><img src="https://i.imgur.com/xO7hBYF.png" height="460"></p>
+
+[Video Revoew](https://www.youtube.com/watch?v=Uvms5889AJo)
+
+<details>
+<summary>Screenshots (click to expand)</summary>
+<p align="center"><img src="https://i.imgur.com/M9AsUbT.png" title="Welcome"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/B0FaSGs.jpg" title="Menu Background"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/jy7DZXh.jpg" title="Song Select"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/L9GZmAO.jpg" title="Select Modes"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/ipCatEJ.jpg" title="Mod Icons"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/fiY3zrV.jpg" title="Skip"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/EUXcslc.jpg" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/8XS3c4f.jpg" title="Section Pass"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/ZqBcwkM.jpg" title="Section Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/YBlQXla.jpg" title="Screen Pause"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/s5b2yCg.jpg" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/bT91ptU.jpg" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/68YfHMd.jpg" title="Ranking Panel"height="480"></p>
+</details>
+
+#### Download
+Source|Link|
+|---|---|
+|Google Drive|[Go to GoogleDrive](https://drive.google.com/file/d/1CnS08J-mFFu4c-mrk_HbEgtj5x53p9w-/view?usp=drive_link)|
 
 ___
 
@@ -34,7 +65,7 @@ ___
 
 <p align="center"><img src="https://i.imgur.com/jC0GLhu.jpeg" height="460"></p>
 
-[Video Revoew](https://youtu.be/aY0s4D6WZys)
+[Video Revoew](https://youtu.be/nvLAfQupHlI)
 
 <details>
 <summary>Screenshots (click to expand)</summary>
